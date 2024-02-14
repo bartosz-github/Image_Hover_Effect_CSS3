@@ -22,5 +22,23 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    
+    /* background-color: #ccc; */
+}
+
+.clip1 {
+    background: url(https://images.unsplash.com/photo-1604537466158-719b1972feb8);
+    background-size: cover;
+    background-position: center;
+}
+
+.clip2 {
+    background: url(https://images.unsplash.com/photo-1502228213426-d4e9f2add0e5);
+    background-size: cover;
+    background-position: center;
+}
+
+.clip3 {
+    background: url(https://images.unsplash.com/photo-1519757043093-285fcb07a4e4);
+    background-size: cover;
+    background-position: center;
 }
