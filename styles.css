@@ -22,7 +22,6 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    /* background-color: #ccc; */
     transition: all 0.5s;
 }
 
@@ -48,7 +47,7 @@ body {
 }
 
 .container:hover .clip {
-    clip-path: polygon(100% 0,100% 0, 100% 100%, 100% 100%);
+    clip-path: polygon(100% 0, 100% 0, 100% 100%, 100% 100%);
 }
 
 .container .clip:hover {
